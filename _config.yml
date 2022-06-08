@@ -9,8 +9,8 @@ collections:
   posts:
     title: Posts
     output: true
-  publications:
-    title: Publications
+  projects:
+    title: Projects
     output: true
     permalink: "/:collection/:path/"
   talks:
@@ -51,7 +51,7 @@ defaults:
     comments: true
 - scope:
     path: ''
-    type: publications
+    type: projects
   values:
     layout: single
     author_profile: true
