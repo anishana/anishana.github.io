@@ -10,7 +10,9 @@ redirect_from:
 
 I am a Masters student at the Dept. of Computer Science and Engineering, The State University of New York at Buffalo. My primary areas of work are creating applications for SaaS-based companies using languages like Java, JavaScript and tapping into various libraries and frameworks like SpringBoot, Node.js, React.js, Express.js. I graduated as a Bachelor of Engineering from SIES Graduate School of Technology, University of Mumbai.
 
-I have worked at [Assurekit Technologies Pvt. Ltd.](https://assurekit.com/) which is one of the leading startups in insurtech industry. 
+I used to work at Senior Software Engineer at [Assurekit Technologies Pvt. Ltd.](https://assurekit.com/) which is one of the leading startups in insurtech industry. 
+
+I also worked as a Software Engineer [Business Solution Group Pvt. Ltd.](https://www.bsg.ind.in/), the fastest growing Fintech startup, developing Core Banking Solution.
 
 
 
