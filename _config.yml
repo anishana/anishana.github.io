@@ -13,6 +13,10 @@ collections:
     title: Projects
     output: true
     permalink: "/:collection/:path/"
+  publications:
+    title: Publications
+    output: true
+    permalink: "/:collection/:path/"
   talks:
     title: Talks
     output: true
