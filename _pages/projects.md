@@ -39,7 +39,7 @@ author_profile: true
     * Proficient in databases like MSSQL, MySQL, Oracle.
     * Hands-on with version control like Git, SVN.
 
-4. IMPS (Immedate Payment System)
+4. IMPS (Immediate Payment System)
 
     * Co-developed an android and a windows mobile application for immediate money transfer by using IMPS.
     * Co-designed and developed the mobile application and implemented Google Cloud messaging.
