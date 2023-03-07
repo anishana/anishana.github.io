@@ -7,7 +7,11 @@ author_profile: true
 
 ## Key Projects
 
-1. Life Tree Services
+1. Zulily Vendor Onboarding Portal
+    * Vendor Onboarding Portal is a gateway to onboard new vendor and manage the existing vendors and their inventory.
+    * It has a statements tab which helps in reconcilation of the pay orders for vendors.
+
+2. Life Tree Services
 
     * Life Tree Services LLC is a veteran owned business that is based in Western New York and helps local families by providing services like Tree Pruning, Tree removal, Cabling and Bracing, Storm Damage Repair and Risk Assessment.  
     * Had a crucial part in building a dashboard which helps Life Tree Services LLC to manage invoices, job status.
@@ -17,7 +21,7 @@ author_profile: true
     * A map-view is implemented with the help of Google Maps API to get an overview of all the pending jobs in the area.
     * This portal is developed using React, Node.js, Google Maps API and Dropbox API. 
 
-2. assurekit.com
+3. assurekit.com
 
     * assurekit.com is a one-stop insurance gateway
     * It is a powerful tool for the insurers to create any form, workflow with help of React and unstructured database like MongoDB.
@@ -27,7 +31,7 @@ author_profile: true
     * assurekit.com uses React for the front-end, MongoDB, Redis, and MySQL for database, and Java for the backend.
     * A CI/CD(Continuous integration, continuous deployment) structure is implemented for smooth deployment.
 
-3. Turing - A Core Banking Solution
+4. Turing - A Core Banking Solution
 
     * Developed an extensive Core banking Solution called Turing.
     * Contributed majorly in developing transactions modules which included cash, ATM, online channel transactions, cheque clearing transactions.
@@ -39,14 +43,14 @@ author_profile: true
     * Proficient in databases like MSSQL, MySQL, Oracle.
     * Hands-on with version control like Git, SVN.
 
-4. IMPS (Immediate Payment System)
+5. IMPS (Immediate Payment System)
 
     * Co-developed an android and a windows mobile application for immediate money transfer by using IMPS.
     * Co-designed and developed the mobile application and implemented Google Cloud messaging.
     * Integrated the application with NPCI APIs for nationwide use of the application for transactions.
     * The technologies used for developing these applications are Android, Play Java, .Net Framework.
 
-5. Tab Banking 
+6. Tab Banking 
 
     * A web and an Android application that communicated with the core banking solution of the bank to create accounts. The business correspondent gets the commission which is calculated by the application based on the accounts opened.
     * The project also included a cheque scanning system which was directly integrated with CBS for an easy clearing system.
