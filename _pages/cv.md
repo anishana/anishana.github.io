@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src={{site.baseurl}}"/publications/Anish_Joshi_Resume_2.pdf" width="100%" height="100%"/>
+<embed src={{site.baseurl}}"/publications/Anish_Joshi.pdf" width="100%" height="100%"/>
