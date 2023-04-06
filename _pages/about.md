@@ -18,4 +18,4 @@ I used to work at Senior Software Engineer at [Assurekit Technologies Pvt. Ltd.]
 
 I also worked as a Software Engineer [Business Solution Group Pvt. Ltd.](https://www.bsg.ind.in/), the fastest growing Fintech startup, developing Core Banking Solution.
 
-I started my profession career at [Tata Consultancy Services](https://www.tcs.com/), one of the largest consulting firm in ndia where I was assigned to the State Bank of India, the biggest bank in India, where I was helping to manage the database and infrastructure at the core banking level. 
+I started my profession career at [Tata Consultancy Services](https://www.tcs.com/), one of the largest consulting firm in India where I was assigned to the State Bank of India, the biggest bank in India, where I was helping to manage the database and infrastructure at the core banking level. 
